@@ -1,2 +1,2 @@
-# Mastering-Agentic-AI-Course
-Mastering Agentic AI Course
+# Mastering-Agentic-AI
+Mastering Agentic AI
