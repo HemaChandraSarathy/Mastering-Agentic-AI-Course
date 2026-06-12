@@ -1,0 +1,16 @@
+# Design-system palette.
+# Page background is ALWAYS linen #F5F3EF — never white. Accent #3A5F8A used once per view.
+[theme]
+base = "light"
+primaryColor = "#3A5F8A"            # accent
+backgroundColor = "#F5F3EF"         # linen
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A1A"
+font = "sans serif"                 # DM Sans imported via injected CSS in app.py
+
+[server]
+headless = true
+
+[client]
+# Hide the "Deploy" button + developer toolbar for a clean, product-like view.
+toolbarMode = "minimal"

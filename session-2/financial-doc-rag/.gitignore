@@ -1,0 +1,33 @@
+# Secrets
+.env
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data (corpus is large / placeholder — keep out of git by default; the fictional sample is
+# committed because the golden eval + app sample-load depend on it)
+corpus/*
+!corpus/sample/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Eval outputs
+eval/runs/
+*.log
+
+# Scratch renders / exploration output
+_scratch/

@@ -1,0 +1,12 @@
+SAMPLE — Cobalt Software, FICTIONAL company. Fabricated for demo.
+Q3 2025 Earnings Call Transcript
+
+Priya Nair - CEO
+ARR reached $192 million, up from $180 million last quarter, with net revenue retention of 115%. Revenue
+was $48 million and gross margin improved to 80% on infrastructure efficiency. We closed two seven-figure
+enterprise logos in the quarter and reduced logo churn to 6.5%. We are expanding the platform into
+payments, which we expect to lift NRR further in 2026.
+Daniel Roth - CFO
+Net income was $5.3 million. We continue to operate near the Rule-of-40 with ~14% growth and ~15% margin,
+and net debt declined to $42 million. Headcount was 360, with most hiring in R&D and customer success.
+The main risk we watch is enterprise sales-cycle elongation in a tighter macro.

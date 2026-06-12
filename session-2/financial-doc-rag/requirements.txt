@@ -1,0 +1,37 @@
+# --- Orchestration / RAG framework ---
+langchain
+langchain-community
+langgraph
+langsmith
+
+# --- LLM + embeddings clients ---
+anthropic
+openai            # Nebius Token Factory is OpenAI-API-compatible (used for embeddings)
+
+# --- Data layer ---
+supabase
+pgvector
+
+# --- Deterministic extraction (Pipeline A) ---
+pdfplumber
+pytesseract
+Pillow
+pandas
+openpyxl
+liteparse         # local Rust parser w/ bundled OCR — image-only PDF path (see docs/LITEPARSE_TRIAL.md)
+reportlab         # test-fixture only: generate text-layer PDFs for table-extraction tests
+
+# --- Retrieval helpers (Pipeline B) ---
+rank-bm25
+sentence-transformers   # cross-encoder reranker
+
+# --- Eval ---
+ragas
+datasets
+
+# --- UI ---
+streamlit
+
+# --- Misc ---
+python-dotenv
+pydantic

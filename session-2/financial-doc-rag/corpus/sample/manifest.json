@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "meridian",
+    "name": "Meridian Industrial Components",
+    "sector": "Industrials \u2014 Precision Components",
+    "dir": "corpus/sample/meridian"
+  },
+  {
+    "slug": "cobalt",
+    "name": "Cobalt Software",
+    "sector": "Software \u2014 Vertical SaaS",
+    "dir": "corpus/sample/cobalt"
+  },
+  {
+    "slug": "harbor",
+    "name": "Harbor Logistics",
+    "sector": "Logistics \u2014 Trucking",
+    "dir": "corpus/sample/harbor"
+  }
+]
